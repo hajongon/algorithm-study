@@ -47,7 +47,7 @@
 
 ### 문제 출제
 
-- [레퍼런스 문제집 링크](https://www.acmicpc.net/workbook/by/BaaaaaaaaaaarkingDog)를 기반으로 출제하되, 함께 풀어보고 싶은 다른 문제가 있다면 건의합니다.
+- [레퍼런스 문제집](https://www.acmicpc.net/workbook/by/BaaaaaaaaaaarkingDog)을 기반으로 출제하되, 함께 풀어보고 싶은 다른 문제가 있다면 건의합니다.
 - 일주일에 5문제를 기본으로 출제합니다.
 
 ### 문제 풀이
