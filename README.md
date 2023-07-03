@@ -35,7 +35,7 @@
 | 1 | 23-06-19(MON) 14:00 | [링크](https://www.acmicpc.net/group/workbook/view/18050/58611) | 수빈, 설화, 수범, 윤환, 민규, 종승 |
 | 2 | 23-06-26(MON) 14:00 | [링크](https://www.acmicpc.net/group/workbook/view/18050/58804) | 수빈, 설화, 수범, 민규, 종승, 효진 |
 | 3 | 23-07-03(MON) 14:00 | [링크](https://www.acmicpc.net/group/workbook/view/18050/58990) | 수빈, 설화, 수범, 민규, 종승, 윤환, 상범|
-| 4 | 23-07-10(MON) (예정) | - | |
+| 4 | 23-07-10(MON) (예정) | [링크](https://www.acmicpc.net/group/workbook/view/18050/59285) | |
 | 5 | 23-07-17(MON) (예정) | - | |
 | 6 | 23-07-24(MON) (예정) | - | |
 | 7 | 23-07-31(MON) (예정) | - | |
